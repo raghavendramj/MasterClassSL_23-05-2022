@@ -1,0 +1,86 @@
+Agenda - 6 hours
+Monday -> 3 hours
+	-> 1 Hr -> Java OOPS
+	-> 1 Hr -> Java Classes and Interfaces
+	-> 1 Hr -> Collection
+Wednesday -> 3 hours
+		-> 3 hr -> Data Structures
+			-> Arrays -> 2 problems
+			-> Linked List
+				-> 2 prolems
+			-> ArraysList and LinkedList
+			-> Stacks and Queues
+
+Post session
+	-> Bunch of completed questions...
+
+What is a programming Language?
+
+
+Features
+	-> Simple
+			based on c++
+			automatic garbage collection
+	-> Object Oriented Programming Language
+		-> Object
+		-> Class
+
+	Class
+		Fields -> variables
+		Methods
+		Constructors
+		Blocks
+		Nested Classes and Interfaces
+
+	Object
+		blueprint/instance of a class
+
+
+Variables
+	-> Local Variable
+	-> Instance Variable
+	-> Static variable
+
+Data Types
+
+	-> byte -> number -> 1 byte 	-> ex. 12, 34, 678
+	-> int -> number -> 4 bytes ex. 12, 34, 678
+	-> float -> number -> 4 bytes -> 12.45, 34.56, 9.3, 54.0
+
+	private  -> This is only accessible inside the current class
+	public -> This can be accessed from anywhere
+	protected -> this can be accessed inside the class and same package.
+					-> outside the package -> only the child class can access these members
+	default -> only inside the current package
+
+	Encapsulation
+		-> Encapsulation in Java is a process of wrapping code and data together into a single unit, for example, a capsule which is mixed of several medicines.
+
+	Inheritance
+		-> 	Employee
+				->salary
+				Programmer extends Employee
+				DevOpsEngineer extends Employee
+				MultiLevel Inheritance
+				---------------------------
+				Employee -> DevOpsEngineer -> DevOpsSpecialist
+
+				Hierarchical Inheritance
+				---------------------------
+				Employee -> DevOpsEnginee
+								-> Programmer
+								
+		Polymorphism
+			-> Compile time / overloading 
+			-> Run time / Overriding					
+						
+		Abstraction
+			 process of hiding the implementation details and showing only functionality to the user.
+			
+
+
+
+
+
+
+
